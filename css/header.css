@@ -15,13 +15,12 @@ header{
 }
 
 .menu{
-    width: 100px;
+    width: 200px;
     height: 50px;
 
     display: flex;
     justify-content: center;
     gap: 10px;
-    text-decoration: none;
 }   
 
 .menu a{
@@ -30,6 +29,7 @@ header{
     background-color: purple;
     font-size: 10px;
     color: white;
+    
 
     padding: 20px 18px;
     border-radius: 2px;
